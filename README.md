@@ -75,8 +75,8 @@ This project implements an intelligent question-answering system that:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/java-rag-chatbot.git
-   cd java-rag-chatbot
+   git clone (https://github.com/Nithin345256/LLM-based-java-chatbot)
+   cd LLM-based-java-chatbot
    ```
 
 2. **Install dependencies**
