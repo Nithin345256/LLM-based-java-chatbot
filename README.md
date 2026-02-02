@@ -101,31 +101,10 @@ This project implements an intelligent question-answering system that:
 
 **Start the Streamlit app:**
 ```bash
-streamlit run app.py
+streamlit run streamlit_app.py
 ```
 
 The application will open in your default browser at `http://localhost:8501`
-
-## 📦 Project Structure
-
-```
-java-rag-chatbot/
-│
-├── app.py                          # Main Streamlit application
-├── preprocessing.ipynb             # Data processing and embedding generation
-├── requirements.txt                # Python dependencies
-├── .env                           # Environment variables (not in repo)
-│
-├── data/
-│   ├── embeddings.json            # Generated embeddings
-│   ├── chunks.json                # Processed text chunks
-│   └── improved_chunks.txt        # Human-readable chunks
-│
-├── notebooks/
-│   └── Untitled41.ipynb          # Original Colab notebook
-│
-└── README.md                      # This file
-```
 
 ## 🔧 Configuration
 
